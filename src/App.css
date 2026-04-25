@@ -11,8 +11,8 @@ body {
     font-family: "Google Sans", sans-serif;
   align-items: center;
   background: linear-gradient(135deg, #ff7eb3, #ffd700);
-  background-image: url("image/1.png");
-  background-size: cover;
+  /* background-image: url("image/1.png");
+  background-size: cover; */
 
 }
 .container {
