@@ -13,7 +13,7 @@ function App() {
           <span class="star">⭐</span>
           <span class="star">⭐</span>
           <span class="star">⭐</span>
-        I love You Ravy😘🩵
+            នឹកណាស់ Call មកអូនសម្លាញ់😘💕
         </div>
       </div>
       {/* <div className="PS">
